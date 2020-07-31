@@ -21,5 +21,11 @@
     <ClCompile Include="thread_example.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prime_number.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prime_number_errorneus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
